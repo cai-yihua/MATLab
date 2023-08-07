@@ -1,2 +1,3 @@
-print(input("請輸入數字："))
-print(input("Yesung is very cute !"))
+print("請輸入數字：")
+print("Yesung is very cute !")
+print("I don't want to mave")
